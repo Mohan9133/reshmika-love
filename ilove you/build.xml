@@ -1,0 +1,7 @@
+<project name="ilove you" default="WAR-build" basedir=".">
+	<description>ilove you - Build file</description>
+	
+	<import file="buildProperties.xml"/>
+	<import file="buildTasks.xml"/>
+	
+</project>
